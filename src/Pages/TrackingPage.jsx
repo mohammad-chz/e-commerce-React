@@ -1,4 +1,4 @@
-import './trackingPage.css';
+import './TrackingPage.css';
 
 export function TrackingPage() {
     return (
